@@ -1,0 +1,1 @@
+export const GET_HOMEPAGE_DB = 'GET_HOMEPAGE_DB';
